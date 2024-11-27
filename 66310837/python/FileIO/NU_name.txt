@@ -1,0 +1,3 @@
+123456 John age = 18
+123457 Jo age = 19
+66311428 John Devze age: 18
