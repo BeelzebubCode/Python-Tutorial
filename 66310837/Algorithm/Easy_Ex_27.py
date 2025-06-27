@@ -1,0 +1,1 @@
+print(int(int(input())*9/5+32))
