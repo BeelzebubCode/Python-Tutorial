@@ -1,2 +1,0 @@
-Create env conda: conda create -n <name> python=3.12(ไม่ระบุได้)
-Open env conda: conda activate <nmae env>
