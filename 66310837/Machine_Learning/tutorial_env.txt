@@ -1,0 +1,11 @@
+myenv = machineEnv
+
+conda create --name myenv python=3.11
+conda create --name myenv python #version ล่าสุด
+
+conda init powershell
+สิ่งที่มันทำ:
+จะเพิ่มสคริปต์ไปที่ $PROFILE ของ PowerShell เพื่อให้สั่ง conda activate ได้ตรง ๆ
+
+เปิดใช้งาน:
+conda activate myenv
